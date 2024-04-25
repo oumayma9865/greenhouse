@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468984554333",
+    "project_id": "greenhouse-20f30",
+    "storage_bucket": "greenhouse-20f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468984554333:android:a3768620c5147cfd237eb4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBKdHqi-ATaE0lSKCxNjwalRpzop4Uwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
